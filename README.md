@@ -12,7 +12,7 @@ ComposeGPT es una aplicación de demostración para Android que integra la API d
 - 📤 Envío de mensajes con botón o tecla "enviar"
 
 ## Capturas de pantalla
-*Añadir capturas de pantalla aquí*
+![imagen](https://github.com/user-attachments/assets/b3e67de7-ef56-40b8-b969-6f0d92e0cf7e)
 
 ## Requisitos
 - Android Studio Flamingo o superior
